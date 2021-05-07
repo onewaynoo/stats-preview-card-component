@@ -32,5 +32,18 @@ The designs were created to the following widths:
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 - Weights: 400, 700
 
+font-family: 'Inter', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
 - Weights: 400
+
+
+  Get insights that help your business grow.
+
+  Discover the benefits of data analytics and make better decisions regarding revenue, customer
+  experience, and overall efficiency.
+
+  10k+ companies
+  314 templates
+  12m+ queries
